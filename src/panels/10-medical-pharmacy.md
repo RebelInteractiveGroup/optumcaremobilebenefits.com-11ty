@@ -1,6 +1,6 @@
 ---
 title: Medical & Pharmacy
-order: 10
+order: 80
 color: primary
 icon: /assets/images/01-medical-and-pharmacy.svg
 ---
@@ -13,12 +13,12 @@ A one-stop, no cost, concierge service for OptumCare health plan members to assi
 
 ##### Medical Plans:
 
-* Accountable Care Plan
-* Doctors Plan
-* Hawaii PPO Plan
-* HSA Plan
-* OptumCare EPO Plan
-* OptumCare NE Plan
+- Accountable Care Plan
+- Doctors Plan
+- Hawaii PPO Plan
+- HSA Plan
+- OptumCare EPO Plan
+- OptumCare NE Plan
 
 [1-844-585-1466](tel://+1-844-585-1466 "1-844-585-1466")
 
@@ -52,10 +52,9 @@ Click to download the **Surest App**.
 <a class="app-badge" href="https://apps.apple.com/us/app/surest/id1283152937">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
 <a class="app-badge" href="https://play.google.com/store/apps/details?id=com.yourbind.bindapp">![Download Mobile App on the Google Play Store](/assets/images/google-play-badge.svg)</a>
 
-
 ##### UnitedHealthcare Signature Value
 
-* SignatureValue Harmony Plan
+- SignatureValue Harmony Plan
 
 [1-877-669-3855](tel://+1-877-669-3855 "1-877-669-3855")
 

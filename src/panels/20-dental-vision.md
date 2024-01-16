@@ -1,9 +1,10 @@
 ---
 title: Dental & Vision
-order: 20
+order: 70
 color: primary
 icon: /assets/images/02-dental-and-vision.svg
 ---
+
 #### Dental
 
 [1-877-816-3596](tel://+1-877-816-3596 "1-877-816-3596")

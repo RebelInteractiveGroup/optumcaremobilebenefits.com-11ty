@@ -1,9 +1,10 @@
 ---
 title: EAP & Emotional Support
-order: 40
+order: 50
 color: quaternary
 icon: /assets/images/04-eap-and-emotional-support.svg
 ---
+
 #### Employee Assistance Program (EAP)
 
 Call 24/7 to speak with a master’s level specialist and connect with a range of resources, including counseling and unlimited phone calls.

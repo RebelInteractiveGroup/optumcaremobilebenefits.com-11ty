@@ -1,9 +1,10 @@
 ---
 title: Disability & Life Insurance
-order: 60
+order: 30
 color: tertiary
 icon: /assets/images/06-disability-and-life-insurance.svg
 ---
+
 #### Basic Life Insurance and AD&D, Supplemental Life and AD&D, Dependent Life and AD&D
 
 ##### UnitedHealthcare

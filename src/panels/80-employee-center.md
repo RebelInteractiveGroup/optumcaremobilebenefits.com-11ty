@@ -1,9 +1,10 @@
 ---
 title: Employee Center
-order: 80
+order: 10
 color: primary
 icon: /assets/images/08-employee-center.svg
 ---
+
 [1-800-561-0861](tel://+1-800-561-0861 "1-800-561-0861")
 
 Monday—Friday, 7 a.m.—7 p.m. CT
@@ -19,6 +20,7 @@ Monday—Friday, 7 a.m.—7 p.m. CT
 [1-888-848-3375](tel://+1-888-848-3375 "IT Help Desk phone number direct.")
 
 Customer service in US available 24/7
+
 #### United for Giving
 
 United for Giving helps you make a bigger impact when donating time or money to the causes and communities you care most about. You can recieve a 1:1 match for donations to eligable charities and earn rewards for their volunteer efforts.

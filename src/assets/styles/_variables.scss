@@ -5,6 +5,7 @@ $theme-colors: (
   "royalblue": transparent,
   "crimson": transparent,
   focus: #000,
+  "dark-blue": #001A6F
 );
 
 $container-max-widths: (
@@ -121,7 +122,9 @@ svg.svg-inline--fa {
 
 .panel-navigation{
   button{
-    color: #001A6F !important;
+    @extend .text-dark-blue;
+    
+    // color: #001A6F !important;
   }
 }
 
