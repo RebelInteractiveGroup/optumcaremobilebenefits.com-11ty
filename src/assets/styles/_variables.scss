@@ -1,9 +1,9 @@
 @import "../../../node_modules/bootstrap/scss/functions";
 
 $theme-colors: (
-  primary: #525ddc,
-  "royalblue": #4169e1,
-  "crimson": #dc143c,
+  primary: transparent,
+  "royalblue": transparent,
+  "crimson": transparent,
   focus: #000,
 );
 
@@ -24,15 +24,136 @@ $panel-width: 288px;
 $border-width:                2px !default;
 $border-color:                #000 !default;
 
+#main-content{
+  background-color: #FAF8F2;
+  margin-bottom: -1rem;
+}
+
 /** Banner **/
-$banner-bg: #000;
-$banner-color: #fff;
+//$banner-bg: #ffffff;
+$banner-color: #001A6F;
 $banner-font-size: 1rem;
-$banner-border-bottom-width: 0;
-$banner-border-bottom-color: #000;
+$banner-border-bottom-width: $border-width;
+$banner-border-bottom-color: transparent;
+
+#banner{
+  background-color: #ffff !important;
+  color:#001A6F !important;
+}
+
+#site-header {
+  background-color: #ff6122;
+}
+
+#logo{
+  height: 50%;
+  width: 50%;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
 
 /** Modals **/
 $modal-content-bg: transparent;
 $modal-content-box-shadow-xs: none;
 $modal-content-box-shadow-sm-up: none;
 $modal-backdrop-bg: transparent;
+
+.modal-content {
+  .modal-body{
+    p > a {
+      background-color: #002677;
+    }
+  }
+}
+.modal-body {
+  h3{
+    color: #001A6F !important;
+  }
+  h5 {
+    color: #001A6F;
+  }
+}
+//COMMENT: adjusting size of nav svg's to match comp
+.fa-stack-1x.fa-inverse {
+  height: 2em !important;
+}
+
+//COMMENT: adjusting color for panel buttons
+button[class*="text-"] {
+  color: transparent !important;
+}
+
+#main-nav {
+  button{
+    .text-dark{
+      color: #012777 !important;
+    }
+  }
+}
+
+svg.svg-inline--fa {
+  stroke-width: 25;
+}
+
+@each $name, $value in $theme-colors {
+  button.text-#{$name}, header.text-#{$name} {
+    svg {
+      stroke: $value;
+    }
+    span.fa-stack.fa-3x {
+      color: transparent;
+    }
+  } 
+}
+
+//COMMENT: Changing h4's background color to match comps
+.modal-content {
+  .modal-body {
+    h4 {
+      background-color: #D9F6FA !important;
+      color: #001A6F !important;
+    }
+    span.no-underline {
+      text-decoration: none !important;
+    }
+  }
+}
+
+.panel-navigation{
+  button{
+    color: #001A6F !important;
+  }
+}
+
+.modal-body{
+  hr {
+    border-color: #001A6F !important;
+  }
+}
+
+//COMMENT: Adding padding to match comp 
+.modal-body {
+  header {
+    span.fa-stack.fa-3x {
+      margin: 15% 0 0 0;
+    }
+  }
+}
+
+//COMMENT: Adjust h5 and h3 font-size to match comp
+.modal-body {
+  h5 {
+    font-size: 1rem !important;
+  }
+
+  header {
+    h3 {
+      font-size: 1.6rem !important;
+      font-weight: 400 !important;
+    }
+  }
+}
+
+img#logo {
+  max-width: 100% !important;
+}

@@ -1,0 +1,52 @@
+---
+title: EAP & Emotional Support
+order: 40
+color: quaternary
+icon: /assets/images/04-eap-and-emotional-support.svg
+---
+#### Employee Assistance Program (EAP)
+
+Call 24/7 to speak with a master’s level specialist and connect with a range of resources, including counseling and unlimited phone calls.
+
+[1-866-781-6396](tel://+1-866-781-6396 "1-866-781-6396")
+
+[liveandworkwell.com](https://www.liveandworkwell.com/content/en/public.html "liveandworkwell.com in a new tab")
+
+Access Code: OptumCare
+
+Click to download the **Optum Assist app**.
+
+<a class="app-badge" href="https://apps.apple.com/us/app/optum-assist/id1617334988">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
+<a class="app-badge" href="https://play.google.com/store/apps/details?id=com.optum.mobile.optumassist&hl=en_US&gl=US&pli=1">![Download Mobile App on the Google Play Store](/assets/images/google-play-badge.svg)</a>
+
+#### WorkLife Services
+
+Call 24/7 to speak with a WorkLife specialist who can help connect you to helpful resources such as adult and elder care, childcare options, summer camps, affordable housing, adoption services, pet services, home maintenance and more.
+
+[1-866-781-6396](tel://+1-866-781-6396 "1-866-781-6396")
+
+[liveandworkwell.com](https://www.liveandworkwell.com/content/en/public.html "liveandworkwell.com in a new tab")
+
+Access Code: OptumCare
+
+#### Self Care from AbleTo
+
+On-demand access to self-help for stress, anxiety and depression.
+
+To get started, visit the link below and click on "Get Started". Follow the simple steps to sign-up and begin your self care program.
+
+[ableto.com/learnmore](https://member.ableto.com/learnmore/ "Open AbleTo in a new tab.")
+
+#### AbleTo Virtual Behavioral Coaching
+
+Access a self-paced, digital well-being program with coaching support to help you navigate the challenges and stress of everyday life.
+
+[ableto.com](https://app.ableto.com/ "ableto.com for members in a new tab")
+
+[unitedwellbeing.uhg.com](https://unitedwellbeing.uhg.com/ "United Well Being page in a new tab.")
+
+#### 988 Suicide & Crisis Lifeline
+
+If you or a family member is in immediate danger of hurting oneself or others, call 911 immediately. For non-emergencies, contact the Suicide Lifeline for support.
+
+[988 Suicide & Crisis Lifeline](tel://988 "988")
