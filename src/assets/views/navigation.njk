@@ -1,0 +1,14 @@
+{% for item in collections.panels %}
+
+<li class="list-inline-item col-6 m-0">
+  <button id="{{ item.data.title | slugify }}-panel-title" class="btn btn-icon text-{{ item.data.color }}" data-toggle="modal" data-target="#{{ item.data.title | slugify }}-panel"
+    aria-haspopup="true">
+    <span class="fa-stack fa-5x d-block" aria-hidden="true">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      {% include "icon.njk" %}
+    </span>
+    <span class="text-dark">{{ item.data.title }}</span>
+  </button>
+</li>
+
+{% endfor %}

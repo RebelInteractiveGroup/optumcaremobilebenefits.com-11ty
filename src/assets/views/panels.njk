@@ -1,0 +1,41 @@
+{% for item in collections.panels %}
+
+<div
+class="modal fade modal-{{ item.data.color }}"
+id="{{ item.data.title | slugify }}-panel"
+tabindex="-1"
+role="dialog"
+aria-labelledby="{{ item.data.title | slugify }}-panel-title"
+aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+
+
+    <a class="sr-only" href="#{{ item.data.title | slugify }}-content" data-ajax="false">Move to Panel Content</a>
+
+    <nav class="panel-navigation" aria-label="Navigate between content panels">
+      <button aria-label="Navigate to Previous Panel" class="panel-nav panel-nav-prev btn btn-link"><i class="fas fa-chevron-left fa-lg"></i></button>
+      <button aria-label="Close Current Panel"  data-rel="close" class="panel-nav panel-nav-close btn btn-link"><i class="fas fa-times fa-lg"></i> Close</button>
+      <button aria-label="Navigate to Next Panel" class="panel-nav panel-nav-next btn btn-link"><i class="fas fa-chevron-right fa-lg"></i></button>
+    </nav>
+
+    <hr>
+
+    <header id="{{ item.data.title | slugify }}-content" class="panelHeader text-{{ item.data.color }}" aria-hidden="true">
+      <span class="fa-stack fa-3x" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        {% include "icon.njk" %}
+      </span>
+
+      <h3 tabindex="-1">{{ item.data.title }}</h3>
+
+    </header>
+
+    {{ item.templateContent | markdown | safe }}
+  </div> <!-- /.modal-body -->
+  </div> <!-- /.modal-content -->
+</div> <!-- /.modal-dialog -->
+</div> <!-- /.modal -->
+
+{% endfor %}

@@ -1,0 +1,38 @@
+@import "../../../node_modules/bootstrap/scss/functions";
+
+$theme-colors: (
+  primary: #525ddc,
+  "royalblue": #4169e1,
+  "crimson": #dc143c,
+  focus: #000,
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 860px,
+  xl: 960px
+);
+
+/** Transitions **/
+$transition-base: all 300ms ease;
+
+/** Panels **/
+$panel-width: 288px;
+
+/** Borders **/
+$border-width:                2px !default;
+$border-color:                #000 !default;
+
+/** Banner **/
+$banner-bg: #000;
+$banner-color: #fff;
+$banner-font-size: 1rem;
+$banner-border-bottom-width: 0;
+$banner-border-bottom-color: #000;
+
+/** Modals **/
+$modal-content-bg: transparent;
+$modal-content-box-shadow-xs: none;
+$modal-content-box-shadow-sm-up: none;
+$modal-backdrop-bg: transparent;

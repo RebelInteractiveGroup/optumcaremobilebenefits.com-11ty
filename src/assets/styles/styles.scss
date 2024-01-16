@@ -1,0 +1,94 @@
+/**
+ * Import stylesheet partials
+*/
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
+@import "reset";
+@import "variables";
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import "panels";
+@import "icons";
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+html {
+  height: 100%;
+}
+
+:focus,
+[tabindex="-1"]:focus,
+.panel [tabindex="-1"]:focus,
+h3:focus {
+  outline: 2px solid theme-color("focus") !important;
+}
+
+.noscroll {
+  overflow: hidden;
+  width: 100%;
+}
+
+hr {
+  border-top: 2px solid theme-color("dark");
+}
+
+#site-header {
+  @extend .text-center;
+}
+
+#banner {
+  @extend .text-center, .py-3, .mb-3;
+
+  background-color: var(--banner-bg);
+  color: var(--banner-color);
+  border-bottom: var(--banner-border-width) var(--banner-border-style) var(--banner-border-color);
+
+  h2 {
+    @extend .m-0;
+
+    font-size: var(--banner-font-size);
+  }
+}
+
+#main-nav {
+  @extend .container, .text-center;
+
+  ul {
+    @extend .justify-content-between, .list-unstyled, .list-inline;
+  }
+}
+
+.btn-icon {
+  @extend .btn-link, .text-center, .mb-5, .d-block, .w-100;
+
+  white-space: normal;
+  text-decoration: none !important;
+
+  * {
+    max-width: 100%;
+  }
+
+  .fa-stack {
+    @extend .mx-auto, .mb-1;
+  }
+}
+
+[data-icon="undefined"] {
+  display: none;
+}
+
+.fa-stack-1x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100% !important;
+}

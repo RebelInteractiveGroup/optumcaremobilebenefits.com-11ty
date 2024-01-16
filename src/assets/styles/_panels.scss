@@ -1,0 +1,180 @@
+@each $key, $value in $theme-colors {
+  .modal-#{$key} {
+    a {
+      background-color: $value;
+    }
+
+    em {
+      color: $value;
+    }
+  }
+}
+
+.modal.fade .modal-dialog {
+  transform: none;
+}
+.modal.show .modal-dialog {
+  transform: translateX(0) !important;
+  z-index: 400;
+}
+
+.modal-content {
+  width: $panel-width;
+  min-height: 100vh;
+}
+
+.modal-dialog {
+  left: 0;
+  margin: 0;
+  width: 100%;
+  transform: translateX(calc($panel-width * -1)) !important;
+  z-index: 300;
+  max-width: none !important;
+  background: transparent;
+
+  .modal-body {
+    @extend .bg-light, .pb-3, .border-right, .p-0;
+
+    width: $panel-width;
+    box-shadow: 5px 0 5px rgba(0,0,0,.15);
+    min-height: 100%;
+    font-size: $font-size-sm;
+
+    hr {
+      @extend .mx-3;
+    }
+
+    p,
+    h3,
+    h4,
+    h5,
+    h6,
+    ul,
+    ol {
+      @extend .px-3;
+    }
+
+    h4 {
+      @extend .h5, .mt-5;
+
+      &:first-of-type {
+        @extend .mt-2;
+      }
+    }
+
+    h5 {
+      @extend .mt-4, .font-weight-bold;
+    }
+
+    h3 {
+      @extend .mb-3;
+
+      font-size: $h4-font-size;
+    }
+
+    ul {
+      @extend .mr-3, .ml-0;
+    }
+
+    li {
+      @extend .mb-1;
+    }
+
+    em {
+      font-style: normal;
+      text-transform: uppercase;
+    }
+
+    p a {
+      @extend .d-flex, .align-items-center;
+
+      font-weight: bold;
+      margin-left: -1rem;
+      margin-right: -1rem;
+
+      &:focus {
+        margin-left: -0.5rem;
+        margin-right: 0.5rem;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+      }
+
+      svg {
+        @extend .align-self-start, .mt-1;
+      }
+    }
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  h4 {
+    @extend .text-white, .bg-dark, .text-center, .py-2, .px-4;
+  }
+
+  a {
+    @extend .px-4, .py-3, .text-white;
+      text-decoration: underline;
+      display: block;
+
+    svg {
+      @extend .mr-2;
+    }
+  }
+
+  .app-badge {
+    @extend .pb-1, .flex-row-reverse, .justify-content-end;
+
+    background: transparent !important;
+
+    img {
+      @extend .mr-3;
+
+      width: 60%;
+    }
+
+    .svg-inline--fa {
+      @extend .align-self-center;
+      * {
+        fill: theme-color('dark');
+      }
+    }
+  }
+
+  .paragraph-app-badge {
+    @extend .mb-2;
+  }
+
+  .paragraph-app-badge-last {
+    @extend .mb-5;
+  }
+}
+
+.panelHeader {
+  @extend .text-center, .pb-2;
+
+  .fa-stack {
+    @extend .mx-auto, .d-block
+  }
+
+  h3 {
+    @extend .mt-3;
+  }
+}
+
+
+.panel-navigation {
+  @extend .d-flex, .justify-content-between, .py-3, .px-2;
+
+  button {
+    @extend .flex-fill, .text-uppercase, .text-dark;
+
+    font-weight: 600;
+    font-size: $font-size-lg;
+
+    svg {
+      @extend .mx-2;
+    }
+  }
+}
