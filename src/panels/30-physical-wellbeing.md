@@ -1,7 +1,7 @@
 ---
 title: Health & Well-being
 order: 60
-color: tertiary
+color: primary
 icon: /assets/images/03-health-and-well-being.svg
 ---
 
@@ -17,7 +17,7 @@ Monday—Friday, 7 a.m.—10 p.m. CT
 
 [1-877-818-5826 (System Issues)](tel://+1-877-818-5826 "1-877-818-5826")
 
-[uhg.werally.com](https://member.werally.com/content/register/optum/uhgee/standard "uhg.werally.com in a new tab"){: .overflow}
+[uhg.werally.com](https://member.werally.com/content/register/optum/uhgee/standard "uhg.werally.com in a new tab")
 
 #### Rally
 

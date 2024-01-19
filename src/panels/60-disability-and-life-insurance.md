@@ -1,7 +1,7 @@
 ---
 title: Disability & Life Insurance
 order: 30
-color: tertiary
+color: primary
 icon: /assets/images/06-disability-and-life-insurance.svg
 ---
 

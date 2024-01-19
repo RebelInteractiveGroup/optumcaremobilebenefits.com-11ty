@@ -54,7 +54,7 @@ $banner-border-bottom-color: transparent;
 }
 
 /** Modals **/
-$modal-content-bg: transparent;
+$modal-content-bg: white;
 $modal-content-box-shadow-xs: none;
 $modal-content-box-shadow-sm-up: none;
 $modal-backdrop-bg: transparent;
@@ -64,6 +64,7 @@ $modal-backdrop-bg: transparent;
     p > a {
       background-color: #002677;
     }
+    background-color: white !important;
   }
 }
 .modal-body {
@@ -123,9 +124,7 @@ svg.svg-inline--fa {
 .panel-navigation{
   button{
     @extend .text-dark-blue;
-    
-    // color: #001A6F !important;
-  }
+    }
 }
 
 .modal-body{
