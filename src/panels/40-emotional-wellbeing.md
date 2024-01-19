@@ -1,7 +1,7 @@
 ---
 title: EAP & Emotional Support
 order: 50
-color: quaternary
+color: primary
 icon: /assets/images/04-eap-and-emotional-support.svg
 ---
 

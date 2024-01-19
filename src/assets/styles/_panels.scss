@@ -33,7 +33,7 @@
   background: transparent;
 
   .modal-body {
-    @extend .bg-light, .pb-3, .border-right, .p-0;
+    @extend .pb-3, .border-right, .p-0;
 
     width: $panel-width;
     box-shadow: 5px 0 5px rgba(0,0,0,.15);
