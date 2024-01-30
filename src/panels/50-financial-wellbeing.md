@@ -17,7 +17,7 @@ Monday–Friday, 7:30 a.m.—7:30 p.m. CT
 
 #### Retirement and Investment Planning
 
-[Schedule with a Fidelity Planner](https://nb.fidelity.com/public/nb/default/home?option=ledetail&Target=cours000000000044440 "Schedule with a Fidelity planner")
+[Schedule with a Fidelity Planner](https://nb.fidelity.com/public/nb/default/home?option=ledetail&Target=cours000000000044440 "Schedule with a Fidelity planner. Opens in a new tab")
 
 #### UnitedHealth Group Credit Union
 
