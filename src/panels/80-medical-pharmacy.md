@@ -2,7 +2,7 @@
 title: Medical & Pharmacy
 order: 80
 color: primary
-icon: /assets/images/01-medical-and-pharmacy.svg
+icon: /assets/images/80-medical-pharmacy.svg
 ---
 
 #### OptumCare Medical Plans

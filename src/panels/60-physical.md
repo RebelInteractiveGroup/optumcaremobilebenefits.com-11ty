@@ -2,7 +2,7 @@
 title: Physical
 order: 60
 color: primary
-icon: /assets/images/03-health-and-well-being.svg
+icon: /assets/images/60-physical.svg
 ---
 
 #### United Well-being

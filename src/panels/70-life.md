@@ -2,7 +2,7 @@
 title: Life
 order: 30
 color: primary
-icon: /assets/images/07-on-campus.png
+icon: /assets/images/70-life.png
 ---
 
 #### Commuter Expense Reimbursement Account

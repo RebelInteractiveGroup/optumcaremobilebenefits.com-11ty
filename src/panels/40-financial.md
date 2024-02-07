@@ -2,7 +2,7 @@
 title: Financial
 order: 40
 color: primary
-icon: /assets/images/05-retirement-and-financial-well-being.svg
+icon: /assets/images/40-financial.svg
 ---
 
 #### Savings and Retirement

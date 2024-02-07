@@ -2,7 +2,7 @@
 title: Emotional
 order: 50
 color: primary
-icon: /assets/images/04-eap-and-emotional-support.png
+icon: /assets/images/50-emotional.png
 ---
 
 #### Employee Assistance Program (EAP)

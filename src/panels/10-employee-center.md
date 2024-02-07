@@ -2,7 +2,7 @@
 title: Employee Center
 order: 10
 color: primary
-icon: /assets/images/08-employee-center.svg
+icon: /assets/images/10-employee-center.svg
 ---
 
 [1-800-561-0861](tel://+1-800-561-0861 "1-800-561-0861")
