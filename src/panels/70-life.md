@@ -1,8 +1,8 @@
 ---
-title: On Campus
-order: 20
+title: Life
+order: 30
 color: primary
-icon: /assets/images/07-on-campus.svg
+icon: /assets/images/07-on-campus.png
 ---
 
 #### Commuter Expense Reimbursement Account
@@ -17,9 +17,9 @@ Customer service available 24/7
 
 ##### Bright Horizons
 
-Access back up care when regular child care or elder care plans are disrupted and you still need to work.
+Access back-up care when regular child care or elder care plans are disrupted and you still need to work.
 
-[Back-Up Care: 1-877-242-2737](tel://+1-877-242-2737 "Back-Up Care: 1-877-242-2737")
+[1-877-242-2737](tel://+1-877-242-2737 "1-877-242-2737")
 
 Customer service available 24/7
 

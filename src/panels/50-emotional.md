@@ -1,13 +1,13 @@
 ---
-title: EAP & Emotional Support
+title: Emotional
 order: 50
 color: primary
-icon: /assets/images/04-eap-and-emotional-support.svg
+icon: /assets/images/04-eap-and-emotional-support.png
 ---
 
 #### Employee Assistance Program (EAP)
 
-Call 24/7 to speak with a master’s level specialist and connect with a range of resources, including counseling and unlimited phone calls.
+24/7 access to family, caregiving, financial, legal and household support resources and referrals, as well as connections to licensed professional counselors.  
 
 [1-866-781-6396](tel://+1-866-781-6396 "1-866-781-6396")
 
@@ -19,16 +19,6 @@ Click to download the **Optum Assist app**.
 
 <a class="app-badge" href="https://apps.apple.com/us/app/optum-assist/id1617334988">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
 <a class="app-badge" href="https://play.google.com/store/apps/details?id=com.optum.mobile.optumassist&hl=en_US&gl=US&pli=1">![Download Mobile App on the Google Play Store](/assets/images/google-play-badge.svg)</a>
-
-#### WorkLife Services
-
-Call 24/7 to speak with a WorkLife specialist who can help connect you to helpful resources such as adult and elder care, childcare options, summer camps, affordable housing, adoption services, pet services, home maintenance and more.
-
-[1-866-781-6396](tel://+1-866-781-6396 "1-866-781-6396")
-
-[liveandworkwell.com](https://www.liveandworkwell.com/content/en/public.html "liveandworkwell.com in a new tab")
-
-Access Code: OptumCare
 
 #### Self Care from AbleTo
 

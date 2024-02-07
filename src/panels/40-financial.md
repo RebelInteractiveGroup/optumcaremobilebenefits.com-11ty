@@ -1,5 +1,5 @@
 ---
-title: Retirement & Financial Well-Being
+title: Financial
 order: 40
 color: primary
 icon: /assets/images/05-retirement-and-financial-well-being.svg
@@ -7,17 +7,17 @@ icon: /assets/images/05-retirement-and-financial-well-being.svg
 
 #### Savings and Retirement
 
-##### Fidelity 401(k) Savings Plan, Stock Plans, Executive Savings Plan
+##### Fidelity 401(k), Stock Plan Awards, Executive Savings Plan; also replace Fidelity 401(k), Savings Plan, Stock Plans, Executive Savings Plan with: Fidelity 
 
 [1-800-624-4015](tel://+1-800-624-4015 "1-800-624-4015")
 
-Monday–Friday, 7:30 a.m.—7:30 p.m. CT
+Monday-Friday, 7:30 a.m.-7:30 p.m. CT
 
 [Fidelity NetBenefits.com](https://nb.fidelity.com/public/nb/default/home "Fidelity NetBenefits.com in a new tab")
 
 #### Retirement and Investment Planning
 
-[Schedule with a Fidelity Planner](https://nb.fidelity.com/public/nb/default/home?option=ledetail&Target=cours000000000044440 "Schedule with a Fidelity planner. Opens in a new tab")
+[Schedule an appointment with a Fidelity Planner](https://nb.fidelity.com/public/nb/default/home?option=ledetail&Target=cours000000000044440 "Schedule an appointment with a Fidelity Planner. Opens in a new tab")
 
 #### UnitedHealth Group Credit Union
 
@@ -31,7 +31,7 @@ Customer service available 24/7
 
 #### Financial Goal Consultant
 
-[Schedule with a Credit Union Goal Consultant](https://help.bcu.org/s/schedule?inT=UHGGC&inR=GC "Schedule with a Credit Union Goal Consultant.")
+[Meet with a Credit Union Goal Consultant](https://help.bcu.org/s/schedule?inT=UHGGC&inR=GC "Meet with a Credit Union Goal Consultant in a new tab.")
 
 #### Money Coach
 
@@ -43,12 +43,12 @@ Customer service available 24/7
 
 #### Tuition Reimbursement
 
-Employees can complete the Tuition Reimbursement Pre-Approval Application Online Form to support enrollment in outside educational courses through accredited institutions.
+Complete the Tuition Reimbursement Pre-Approval Application Online Form to support enrollment in outside educational courses through accredited institutions.
 
 [Tuition Reimbursement Pre-Approval Form](https://uhgazure.sharepoint.com/sites/Employment-Policies/SitePages/Tuition-Reimbursement.aspx "Tuition Reimbursement Pre-Approval Form for United Health Group in a new tab.")
 
-#### Employee Discount Website
+#### Employee Discount Site
 
-You can take advantage of corporate discounts on thousands of services and products. Find offerings that support all aspects of your life—at work, home and everywhere in between.
+Take advantage of corporate discounts on thousands of services and products. Find offerings that support all aspects of your life—at work, home and everywhere in between.
 
 [discounts.uhg.com](https://authgateway3.entiam.uhg.com/idp/startSSO.ping?PartnerSpId=urn%3Abenefithub%3Apassport&origin=web "discounts.uhg.com in a new tab")
