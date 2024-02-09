@@ -2,16 +2,16 @@
 title: Medical & Pharmacy
 order: 80
 color: primary
-icon: /assets/images/01-medical-and-pharmacy.svg
+icon: /assets/images/80-medical-pharmacy.svg
 ---
 
-#### OptumCare Medical Plans Medical Plans
+#### OptumCare Medical Plans
 
 ##### Benefits Advocate
 
 A one-stop, no cost, concierge service for OptumCare health plan members to assist with claims, locating network providers, prescription coverage, and more, plus access to a 24/7 nurseline.
 
-##### Medical Plans:
+##### UnitedHealthcare Plans
 
 - Accountable Care Plan
 - Doctors Plan
@@ -22,11 +22,9 @@ A one-stop, no cost, concierge service for OptumCare health plan members to assi
 
 [1-844-585-1466](tel://+1-844-585-1466 "1-844-585-1466")
 
-Monday—Friday, 7 a.m.—10 p.m. CT
+Monday-Friday, 7 a.m.-10 p.m. CT
 
-[1-844-585-1466 (Benefits Advocate)](tel://+1-844-585-1466 "1-844-585-1466")
-
-Monday-Friday, 7 a.m.—10 p.m. CT
+[1-844-585-1466 Nurseline Open 24/7](tel://+1-844-585-1466 "1-844-585-1466")
 
 [myuhc.com](https://member.uhc.com/myuhc "myuhc.com in a new tab")
 
@@ -37,11 +35,17 @@ Click to download the **UnitedHealthcare® App**.
 
 ##### Surest Flex Copay Plan
 
-[1-866-683-6440](tel://+1-866-683-6440 "1-866-683-6440")
+[1-866-683-6440 (Claims)](tel://+1-866-683-6440 "1-866-683-6440")
 
-Monday—Friday, 6 a.m.—9 p.m. CT
+Monday-Friday, 6 a.m.-9 p.m. CT
 
-[1-844-585-1466 (Benefits Advocate Nurses available 24/7)](tel://+1-844-585-1466 "1-844-585-1466")
+[1-844-585-1466 (All Other Questions)](tel://+1-844-585-1466 "1-844-585-1466")
+
+Monday-Friday, 7 a.m.-10 p.m. CT
+
+[1-844-585-1466 (Nurseline)](tel://+1-844-585-1466 "1-844-585-1466")
+
+Available 24/7
 
 [benefits.surest.com](https://benefits.surest.com/default/login?returnPath= "benefits.surest.com in a new tab")
 
@@ -52,25 +56,13 @@ Click to download the **Surest App**.
 <a class="app-badge" href="https://apps.apple.com/us/app/surest/id1283152937">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
 <a class="app-badge" href="https://play.google.com/store/apps/details?id=com.yourbind.bindapp">![Download Mobile App on the Google Play Store](/assets/images/google-play-badge.svg)</a>
 
-##### UnitedHealthcare Signature Value
+##### UnitedHealthcare Signature Value Plan
 
 - SignatureValue Harmony Plan
 
 [1-877-669-3855](tel://+1-877-669-3855 "1-877-669-3855")
 
-Monday–Friday, 9 a.m.—11 p.m. CT
-
-[myuhc.com](https://member.uhc.com/myuhc "myuhc.com in a new tab")
-
-[1-877-291-4894](tel://+1-877-291-4894 "1-877-291-4894")
-
-Monday–Friday 10 a.m.—7 p.m. CT
-
-[myhpnonline.com](https://www.healthplanofnevada.com/Member "myhpnonline.com in a new tab")
-
-[1-877-844-0280](tel://+1-877-844-0280 "1-877-844-0280")
-
-Customer service is available 24/7
+Monday-Friday, 9 a.m.-11 p.m. CT
 
 [myuhc.com](https://member.uhc.com/myuhc "myuhc.com in a new tab")
 
@@ -88,6 +80,6 @@ Customer Service is available 24/7
 
 [1-844-585-1466](tel://+1-844-585-1466 "1-844-585-1466")
 
-Monday–Friday, 7 a.m.—10 p.m. CT
+Monday-Friday, 7 a.m.-10 p.m. CT
 
 [myuhc.com](https://member.uhc.com/myuhc "myuhc.com in a new tab")
