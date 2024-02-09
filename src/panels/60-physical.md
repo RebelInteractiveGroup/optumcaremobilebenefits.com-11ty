@@ -15,8 +15,6 @@ Your health and happiness matter. Explore Life, Financial, Emotional and Physica
 
 Digital resources and live support to help you take small steps to better health.
 
-[uhg.werally.com](https://member.werally.com/content/register/optum/uhgee/standard "uhg.werally.com in a new tab")
-
 Click to download the **Rally App**.
 
 <a class="app-badge" href="https://apps.apple.com/us/app/rally/id992587921">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
