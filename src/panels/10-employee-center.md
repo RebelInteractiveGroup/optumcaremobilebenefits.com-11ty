@@ -23,7 +23,7 @@ Available 24/7
 
 #### United for Giving
 
-United for Giving helps you make a bigger impact when donating time or money to the causes and communities you care most about. You can receive a 1:1 match for donations to eligible charities and earn rewards for their volunteer efforts.
+United for Giving helps you make a bigger impact when donating time or money to the causes and communities you care most about. You can receive a 1:1 match for donations to eligible charities and earn rewards for your volunteer efforts.
 
 [giving.uhg.com](https://unitedhealthgroup.benevity.org/user/login "giving.uhg.com in a new tab")
 
