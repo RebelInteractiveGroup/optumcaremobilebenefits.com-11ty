@@ -2,7 +2,7 @@
 title: Other Insurance
 order: 20
 color: primary
-icon: /assets/images/20-other-insurance.png
+icon: /assets/images/20-other-insurance.svg
 ---
 
 #### Basic, Supplemental and Dependent Life Insurance and AD&D
