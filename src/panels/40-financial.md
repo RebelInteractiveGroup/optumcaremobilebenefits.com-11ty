@@ -5,9 +5,9 @@ color: primary
 icon: /assets/images/40-financial.svg
 ---
 
-#### Savings and Retirement
+#### 401(k), Stock Plan Awards, Executive Savings Plan
 
-##### Fidelity 401(k), Savings Plan, Stock Plans, Executive Savings Plan
+##### Fidelity
 
 [1-800-624-4015](tel://+1-800-624-4015 "1-800-624-4015")
 
