@@ -1,7 +1,7 @@
 // import jQuery
 import $ from 'jquery';
 import 'jquery-touchswipe';
-import 'add-to-homescreen';
+//import 'add-to-homescreen';
 import 'bootstrap';
 
 // import then needed Font Awesome functionality
@@ -40,12 +40,13 @@ dom.watch();
 
 /* eslint-disable */
 // Add to homescreen popup
-window.onload = function() {
+/*window.onload = function() {
   addToHomescreen({
     displayPace: 0,
     maxDisplayCount: 5
   });
 }
+*/
 /* eslint-enable */
 
 
