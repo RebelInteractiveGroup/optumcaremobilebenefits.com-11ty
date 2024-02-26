@@ -2,7 +2,7 @@
 title: Dental, Vision & Hearing
 order: 70
 color: primary
-icon: /assets/images/70-dental-vision-hearing.png
+icon: /assets/images/70-dental-vision-hearing.svg
 ---
 
 #### Dental
