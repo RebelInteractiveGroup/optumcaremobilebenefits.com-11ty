@@ -26,8 +26,6 @@ Monday-Friday, 7 a.m.-10 p.m. CT
 
 [1-844-585-1466](tel://+1-844-585-1466 "1-844-585-1466")
 
-
-
 Nurseline Available 24/7
 
 [myuhc.com](https://member.uhc.com/myuhc "myuhc.com in a new tab")
