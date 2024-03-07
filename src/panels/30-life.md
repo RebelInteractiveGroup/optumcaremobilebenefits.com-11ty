@@ -24,3 +24,15 @@ Access back-up care when regular child care or elder care plans are disrupted an
 Customer service available 24/7
 
 [clients.brighthorizons.com/<br/>unitedhealthgroup](https://my.brighthorizons.com/?clientguid=1F9027C2-047D-E411-BA3A-005056991899 "clients.brighthorizons.com/unitedhealthgroup in a new tab")
+
+#### United for Giving
+
+United for Giving helps you make a bigger impact when donating time or money to the causes and communities you care most about. You can receive a 1:1 match for donations to eligible charities and earn rewards for your volunteer efforts.
+
+[giving.uhg.com](https://unitedhealthgroup.benevity.org/user/login "giving.uhg.com in a new tab")
+
+#### Employee Resource Groups
+
+ERGs are voluntary, employee-led groups based on a shared characteristic or life experience (e.g. Pride at UHG, Women LEAD, and Disability Inclusion).
+
+[ERGs Company Portal](https://uhgazure.sharepoint.com/sites/Our-Company/SitePages/DEI-ERGs.aspx "Employee Resource Groups company portal in a new tab.")
