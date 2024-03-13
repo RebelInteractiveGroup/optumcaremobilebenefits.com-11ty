@@ -7,7 +7,7 @@ icon: /assets/images/50-emotional-heart.svg
 
 #### Employee Assistance Program (EAP)
 
-24/7 access to family, caregiving, financial, legal and household support resources and referrals, as well as connections to licensed professional counselors.  
+24/7 access to family, caregiving, financial, legal and household support resources and referrals, as well as connections to licensed professional counselors.
 
 [1-866-781-6396](tel://+1-866-781-6396 "1-866-781-6396")
 
@@ -20,7 +20,7 @@ Click to download the **Optum Assist app**.
 <a class="app-badge" href="https://apps.apple.com/us/app/optum-assist/id1617334988">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
 <a class="app-badge" href="https://play.google.com/store/apps/details?id=com.optum.mobile.optumassist&hl=en_US&gl=US&pli=1">![Download Mobile App on the Google Play Store](/assets/images/google-play-badge.svg)</a>
 
-#### Self Care from AbleTo
+#### Self Care by AbleTo
 
 On-demand access to self-help for stress, anxiety and depression.
 
