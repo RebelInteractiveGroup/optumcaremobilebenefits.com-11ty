@@ -20,13 +20,11 @@ Click to download the **Optum Assist app**.
 <a class="app-badge" href="https://apps.apple.com/us/app/optum-assist/id1617334988">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
 <a class="app-badge" href="https://play.google.com/store/apps/details?id=com.optum.mobile.optumassist&hl=en_US&gl=US&pli=1">![Download Mobile App on the Google Play Store](/assets/images/google-play-badge.svg)</a>
 
-#### Self Care by AbleTo
+#### Calm
 
-On-demand access to self-help for stress, anxiety and depression.
+Whether you have 60 seconds or 60 minutes, the Calm self-care app can help you relax and build a habit of mindfulness
 
-To get started, visit the link below and click on "Get Started". Follow the simple steps to sign-up and begin your self care program.
-
-[ableto.com/learnmore](https://member.ableto.com/learnmore/ "Open AbleTo in a new tab.")
+[[ableto.com/learnmore](https://unitedwellbeing.uhg.com/calm-app/)](https://unitedwellbeing.uhg.com/calm-app/ "Calm page in a new tab.")
 
 #### AbleTo Virtual Behavioral Coaching
 

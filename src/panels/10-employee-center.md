@@ -4,6 +4,11 @@ order: 10
 color: primary
 icon: /assets/images/10-employee-center.svg
 ---
+#### Benefits Site
+
+Learn about, enroll in and view your benefits
+
+[benefitsenroll.uhg.com](https://benefitsenroll.uhg.com "UHG Benefits page in a new tab")
 
 #### Payroll, PTO, Holiday, Leave & Other Policy Questions
 
