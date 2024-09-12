@@ -24,7 +24,7 @@ Click to download the **Optum Assist app**.
 
 Whether you have 60 seconds or 60 minutes, the Calm self-care app can help you relax and build a habit of mindfulness
 
-[[ableto.com/learnmore](https://unitedwellbeing.uhg.com/calm-app/)](https://unitedwellbeing.uhg.com/calm-app/ "Calm page in a new tab.")
+[https://unitedwellbeing.uhg.com/calm-app/)](https://unitedwellbeing.uhg.com/calm-app/ "Calm page in a new tab.")
 
 #### AbleTo Virtual Behavioral Coaching
 
