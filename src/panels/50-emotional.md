@@ -20,6 +20,7 @@ Click to download the **Optum Assist app**.
 <a class="app-badge" href="https://apps.apple.com/us/app/optum-assist/id1617334988">![Download Mobile App on the App Store](/assets/images/apple-store-badge.svg)</a>
 <a class="app-badge" href="https://play.google.com/store/apps/details?id=com.optum.mobile.optumassist&hl=en_US&gl=US&pli=1">![Download Mobile App on the Google Play Store](/assets/images/google-play-badge.svg)</a>
 
+
 #### Calm
 
 Whether you have 60 seconds or 60 minutes, the Calm self-care app can help you relax and build a habit of mindfulness.
