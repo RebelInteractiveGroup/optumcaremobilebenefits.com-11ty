@@ -37,11 +37,7 @@ Click to download the **UnitedHealthcare® App**.
 
 ##### Surest Flex Copay Plan
 
-[1-866-683-6440 (Claims)](tel://+1-866-683-6440 "1-866-683-6440")
-
-Monday-Friday, 6 a.m.-9 p.m. CT
-
-[1-844-585-1466 (All Other Questions)](tel://+1-844-585-1466 "1-844-585-1466")
+[1-844-585-1466](tel://+1-844-585-1466 "1-844-585-1466")
 
 Monday-Friday, 7 a.m.-10 p.m. CT
 
@@ -49,7 +45,7 @@ Monday-Friday, 7 a.m.-10 p.m. CT
 
 Available 24/7
 
-[benefits.surest.com](https://benefits.surest.com/default/login?returnPath= "benefits.surest.com in a new tab")
+[benefits.surest.com](https://benefits.surest.com/ "benefits.surest.com in a new tab")
 
 <!-- [join.surest.com/uhg (Not Yet Enrolled)](https://join.surest.com/uhg/access-login "join.surest.com/uhg in a new tab") -->
 
