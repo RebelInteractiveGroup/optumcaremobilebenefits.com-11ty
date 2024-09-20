@@ -27,14 +27,6 @@ Whether you have 60 seconds or 60 minutes, the Calm self-care app can help you r
 
 [unitedwellbeing.uhg.com/calm-app)](https://unitedwellbeing.uhg.com/calm-app/ "Calm page in a new tab.")
 
-#### AbleTo Virtual Behavioral Coaching
-
-Access a self-paced, digital well-being program with coaching support to help you navigate the challenges and stress of everyday life.
-
-[ableto.com](https://app.ableto.com/ "ableto.com for members in a new tab")
-
-[unitedwellbeing.uhg.com](https://unitedwellbeing.uhg.com/ "United Well Being page in a new tab.")
-
 #### 988 Suicide & Crisis Lifeline
 
 If you or a family member is in immediate danger of hurting oneself or others, call 911 immediately. For non-emergencies, contact the Suicide Lifeline for support.
