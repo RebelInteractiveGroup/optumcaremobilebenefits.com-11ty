@@ -22,7 +22,7 @@ Click to download the **Optum Assist app**.
 
 #### Calm
 
-Whether you have 60 seconds or 60 minutes, the Calm self-care app can help you relax and build a habit of mindfulness
+Whether you have 60 seconds or 60 minutes, the Calm self-care app can help you relax and build a habit of mindfulness.
 
 [unitedwellbeing.uhg.com/calm-app)](https://unitedwellbeing.uhg.com/calm-app/ "Calm page in a new tab.")
 
