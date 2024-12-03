@@ -6,6 +6,12 @@
 
     <title>{{ general.title }}</title>
 
+    <!-- Add to Home Screen -->
+    <link rel="manifest" crossorigin="use-credentials" href="manifest.json">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/philfung/add-to-homescreen@2.0/dist/add-to-homescreen.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/philfung/add-to-homescreen@2.0/dist/add-to-homescreen.min.js"></script>
+    <!-- End Add to Home Screen -->
+
     <link rel="stylesheet" href="{{ '/assets/styles/styles.css' | url }}" />
     <link rel="shortcut icon" sizes="16x16" href="/assets/images/icon16x16.png">
     <link rel="shortcut icon" sizes="32x32" href="/assets/images/icon32x32.png">
@@ -36,6 +42,27 @@
     <main id="main" tabindex="-1">
       {{ content | safe }}
     </main>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function () { 
+      window.AddToHomeScreenInstance = new window.AddToHomeScreen({
+        appName: 'Optum',                                   // Name of the app.
+                                                                          // Required.
+        appIconUrl: '/assets/images/icon196x196.png',                    // App icon link (square, at least 40 x 40 pixels).  
+                                                                          // Required.
+        assetUrl: 'https://cdn.jsdelivr.net/gh/philfung/add-to-homescreen@2.0/dist/assets/img/',  // Link to directory of library image assets.
+
+        allowUserToCloseModal: true,                          // Allow user to close the 'Add to Homescreen' message? Not allowing will increase installs.
+                                                              // Optional. Default: false.
+      
+        maxModalDisplayCount: -1                               // If set, the modal will only show this many times.
+                                                              // Optional. Default: -1 (no limit).  (Debugging: Use this.clearModalDisplayCount() to reset the count)
+      });
+            
+      ret = window.AddToHomeScreenInstance.show('en');        // show "add-to-homescreen" instructions to user, or do nothing if already added to homescreen
+                                                              // The only argument is the language to show the messages in (currently only 'de', 'en', 'pt' and 'fr' are available).
+      });
+    </script>
 
     <script src="/assets/scripts/main.js" defer></script>
   </body>
